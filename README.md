@@ -17,7 +17,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="50" height="50"/>
   </div>

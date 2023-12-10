@@ -5,9 +5,8 @@
     <a href="https://www.instagram.com/nords1337"><img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=white" alt="InstaGram Badge"/></a>
     <a href="https://www.reddit.com/user/ThePawners"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
   </div>
-</div>
 
-<div>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -20,4 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="50" height="50"/>
+</div>
+
 </div>

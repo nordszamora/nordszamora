@@ -8,3 +8,6 @@
 </div>
 
 ## Current Techstack:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100" height="100"/>
+</div>

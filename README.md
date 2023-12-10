@@ -5,6 +5,7 @@
     <a href="https://www.instagram.com/nords1337"><img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=white" alt="InstaGram Badge"/></a>
     <a href="https://www.reddit.com/user/ThePawners"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
   </div>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=fafsnords&style=flat-square&color=blue" alt=""/>
 </div>
 

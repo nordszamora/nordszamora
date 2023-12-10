@@ -20,4 +20,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="50" height="50"/>
 </div>

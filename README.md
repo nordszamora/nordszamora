@@ -8,5 +8,3 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=fafsnords&style=flat-square&color=blue" alt=""/>
 </div>
-
-<hr/>

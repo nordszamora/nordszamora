@@ -1,3 +1,5 @@
+### I am a web developer who is more focused on backend development. I specialized on python with Django and flask to build a API's, Machine learning integration and services.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="200"/>
   <div id="social">

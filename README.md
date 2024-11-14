@@ -1,4 +1,4 @@
-### I am a web developer specializing in backend development, particularly with Python using frameworks like Django and Flask. My expertise lies in building APIs, integrating machine learning models, and developing various services.
+### I am a web developer specializing in backend development, particularly with Python using frameworks like Django and Flask. My expertise lies in building APIs and integrating machine learning models.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="200"/>
